@@ -1,0 +1,7 @@
+C:\Users\azadmin\source\repos\EscuelaPlatzi\EscuelaPlatzi\obj\Debug\EscuelaPlatzi.csproj.CoreCompileInputs.cache
+C:\Users\azadmin\source\repos\EscuelaPlatzi\EscuelaPlatzi\bin\Debug\EscuelaPlatzi.exe.config
+C:\Users\azadmin\source\repos\EscuelaPlatzi\EscuelaPlatzi\bin\Debug\EscuelaPlatzi.exe
+C:\Users\azadmin\source\repos\EscuelaPlatzi\EscuelaPlatzi\bin\Debug\EscuelaPlatzi.pdb
+C:\Users\azadmin\source\repos\EscuelaPlatzi\EscuelaPlatzi\obj\Debug\EscuelaPlatzi.exe
+C:\Users\azadmin\source\repos\EscuelaPlatzi\EscuelaPlatzi\obj\Debug\EscuelaPlatzi.pdb
+C:\Users\azadmin\source\repos\EscuelaPlatzi\EscuelaPlatzi\obj\Debug\EscuelaPlatzi.csprojAssemblyReference.cache
